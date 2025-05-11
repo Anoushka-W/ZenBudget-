@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# ZenBudget - FinanceTracker
+
+ZenBudget is a modern, interactive personal finance app that helps users track spending, visualize savings, and receive smart AI-powered reallocation suggestions to optimize their monthly budgets.
+
+This web app was built as part of a hackathon project to demonstrate how agentic AI can empower everyday financial decisions through automation, analysis, and actionable insights.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
