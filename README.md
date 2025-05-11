@@ -3,7 +3,7 @@
 ZenBudget is a modern, interactive personal finance app that helps users track spending, visualize savings, and receive smart AI-powered reallocation suggestions to optimize their monthly budgets. This web app was built as part of a hackathon project to demonstrate how agentic AI can empower everyday financial decisions through automation, analysis, and actionable insights.
 
 
-## Features- 
+## Key features- 
 - Visual Savings Insights: Track your monthly savings over time using interactive line charts.
 
 - Smart Spending Breakdown: Instantly see where your money goes with categorized spending pie charts.
@@ -20,6 +20,14 @@ ZenBudget is a modern, interactive personal finance app that helps users track s
 - CSV FILE(Synthetic data)
 - JSON
 - Google Calender API
+
+## How It Works ##
+ZenBudget reads your monthly transaction data (from a CSV file), categorizes your expenses, and applies rule-based and agentic AI logic to:
+- Detect overspending trends
+- Identify underfunded essentials
+- Suggest reallocation from surplus to deficit categories
+
+These insights are displayed on a clean, responsive dashboard built with React and Recharts.
 
   
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
