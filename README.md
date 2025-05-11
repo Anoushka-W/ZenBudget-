@@ -12,6 +12,15 @@ ZenBudget is a modern, interactive personal finance app that helps users track s
 
 - Reallocation Summaries: Clear bar charts and summaries show how much is being shifted and why — making your budgeting decisions transparent and stress-free.
 
+## Tools used-
+- REACT + RECHART
+- FLASK
+- PYTHON(libraries – pandas, vader)
+- TEXTBLOB
+- CSV FILE(Synthetic data)
+- JSON
+- Google Calender API
+
   
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
