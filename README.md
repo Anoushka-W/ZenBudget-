@@ -1,9 +1,18 @@
 # ZenBudget - FinanceTracker
 
-ZenBudget is a modern, interactive personal finance app that helps users track spending, visualize savings, and receive smart AI-powered reallocation suggestions to optimize their monthly budgets.
+ZenBudget is a modern, interactive personal finance app that helps users track spending, visualize savings, and receive smart AI-powered reallocation suggestions to optimize their monthly budgets. This web app was built as part of a hackathon project to demonstrate how agentic AI can empower everyday financial decisions through automation, analysis, and actionable insights.
 
-This web app was built as part of a hackathon project to demonstrate how agentic AI can empower everyday financial decisions through automation, analysis, and actionable insights.
 
+## Features- 
+- Visual Savings Insights: Track your monthly savings over time using interactive line charts.
+
+- Smart Spending Breakdown: Instantly see where your money goes with categorized spending pie charts.
+
+- AI-Powered Budget Reallocation: Using intelligent logic, the app suggests how to reallocate excess spending from one category (e.g., Shopping) to underfunded but essential ones (e.g., Groceries).
+
+- Reallocation Summaries: Clear bar charts and summaries show how much is being shifted and why — making your budgeting decisions transparent and stress-free.
+
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
